@@ -13,15 +13,16 @@ This repository contains the code and resources for a Book Recommendation System
   - `book_names.pkl`
   - `final_rating.pkl`
 
+## 🧠 Give it a try!
+
+You can try the live version of the app here: 
+
+              [BOOK RECOMMENDATION APP](https://mybook-recommendation.streamlit.app/)
+
 ## 🚀 How to Run
 
 1. Install dependencies:
 ```bash
 pip install streamlit pandas scikit-learn
 
-## 🧠 Give it a try!
-
-You can try the live version of the app here: [Book Recommendation App]  
-
-                  https://mybook-recommendation.streamlit.app/
 
