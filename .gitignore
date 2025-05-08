@@ -20,8 +20,3 @@ venv/
 # Ignore environment files (if any)
 .env
 
-# Ignore model artifacts
-*.pkl
-
-# Ignore CSV files
-*.csv

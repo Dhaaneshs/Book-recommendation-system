@@ -19,7 +19,7 @@ This repository contains the code and resources for a Book Recommendation System
 ```bash
 pip install streamlit pandas scikit-learn
 
-## Try the App
+## 🧠 Give it a try!
 
 You can try the live version of the app here: [Book Recommendation App]  
 
