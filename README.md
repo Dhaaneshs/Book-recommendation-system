@@ -17,7 +17,7 @@ This repository contains the code and resources for a Book Recommendation System
 
 You can try the live version of the app here: 
 
-[BOOK RECOMMENDATION APP](https://mybook-recommendation.streamlit.app/)
+[BOOK RECOMMENDATION APP](https://book--recommendation.streamlit.app/)
 
 ## 🚀 How to Run
 
