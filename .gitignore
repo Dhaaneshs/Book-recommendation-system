@@ -1,0 +1,27 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+env/
+venv/
+
+# Ignore IDE and editor settings (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore environment files (if any)
+.env
+
+# Ignore model artifacts
+*.pkl
+
+# Ignore CSV files
+*.csv
