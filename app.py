@@ -35,7 +35,7 @@ if 'search_history' not in st.session_state:
 
 st.set_page_config(page_title="Book Recommendation System", layout="centered")
 
-theme = st.toggle("🌙 Toggle Dark Mode", value=False)
+theme = st.toggle("🌞 Toggle Light Mode", value=True)
 
 if theme:
     bg_color = "#0e1117"
